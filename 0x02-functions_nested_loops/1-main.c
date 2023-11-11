@@ -1,15 +1,12 @@
-#include "../main.h"
+#include "main.h"
 
 /**
- * main - Entry point
+ * main - check the code
  *
- * Description: check the code for ALX School students
- *
- * Return: Always 0 (Success)
-*/
-
+ * Return: Always 0.
+ */
 int main(void)
 {
-	print_alphabet();
-	return (0);
+    print_alphabet();
+    return (0);
 }
